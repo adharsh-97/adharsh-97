@@ -34,6 +34,6 @@ Welcome to my profile
  ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1xEEbwKgOMwFaMP_ohBvmb2R564sN4O9R/view?usp=sharing)
 
-![Adharsh's github stats](https://github-readme-stats.vercel.app/api?username=adharsh-97&show_icons=true)
+![Adharsh's github stats]([https://github-readme-stats.vercel.app/api?username=adharsh-97&show_icons=true](https://github-readme-stats.vercel.app/api?username=adharsh-97&show_icons=true&count_private=true))
  
  
