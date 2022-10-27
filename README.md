@@ -1,10 +1,9 @@
 <h2> Hey, Adharsh here! 👋</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adharsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adharsh-sabu-7b3309174/)](https://www.linkedin.com/in/adharsh-sabu-7b3309174/) [![Gmail Badge](https://img.shields.io/badge/-s_adharsh@cet.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s_adharsh@cet.ac.in)](mailto:s_adharsh@cet.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-Adharsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adharsh-sabukumar-7b3309174/)](https://www.linkedin.com/in/adharsh-sabukumar-7b3309174/) [![Gmail Badge](https://img.shields.io/badge/-s_adharsh@cet.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.adharsh.97@gmail.com)](mailto:s.adharsh.97@gmail.com)
 
 Welcome to my profile
 ## :computer: Technologies I Love
-* Speech and Audio Processing
 * Machine Learning
 * Data Science
 * OpenCV
@@ -15,9 +14,9 @@ Welcome to my profile
  ## Who am I?
  ```python
  class WhoAmI:
-      user = 'Adharsh S'
+      user = 'Adharsh Sabukumar'
       
-      current_edu = "College of Engineering Trivandrum"
+      current_edu = "Purdue University"
       
       hobbies = [
         'Coding',
@@ -26,14 +25,14 @@ Welcome to my profile
       ]
 	
       def getCity():
-            retrun Trivandrum_India
+            retrun Lafayette_IN_USA
 
 	
  ``` 
  
  ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1YuNsG5TbCGCFiO_6EjvstKXomCnOxZoS/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1xEEbwKgOMwFaMP_ohBvmb2R564sN4O9R/view?usp=sharing)
 
-![Adharsh's github stats](https://github-readme-stats.vercel.app/api?username=raven-97&show_icons=true&hide=[%22issues%22])
+![Adharsh's github stats](https://github-readme-stats.vercel.app/api?username=adharsh-97&show_icons=true&hide=[%22issues%22])
  
  
